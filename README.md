@@ -1,0 +1,1 @@
+# feign-openapi-generator-example

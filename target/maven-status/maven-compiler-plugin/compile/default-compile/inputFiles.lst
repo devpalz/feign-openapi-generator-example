@@ -1,0 +1,12 @@
+/home/chris/blog/git/feign-openapi-generator-example/target/generated-sources/openapi/src/gen/java/main/org/openapitools/model/User.java
+/home/chris/blog/git/feign-openapi-generator-example/src/main/java/com/calling/localhost/PetClient.java
+/home/chris/blog/git/feign-openapi-generator-example/target/generated-sources/openapi/src/gen/java/main/org/openapitools/api/StoreApi.java
+/home/chris/blog/git/feign-openapi-generator-example/target/generated-sources/openapi/src/gen/java/main/org/openapitools/api/UserApi.java
+/home/chris/blog/git/feign-openapi-generator-example/src/main/java/com/calling/localhost/Application.java
+/home/chris/blog/git/feign-openapi-generator-example/target/generated-sources/openapi/src/gen/java/main/org/openapitools/model/Category.java
+/home/chris/blog/git/feign-openapi-generator-example/target/generated-sources/openapi/src/gen/java/main/org/openapitools/api/PetApi.java
+/home/chris/blog/git/feign-openapi-generator-example/target/generated-sources/openapi/src/gen/java/main/org/openapitools/model/Pet.java
+/home/chris/blog/git/feign-openapi-generator-example/src/main/java/com/calling/localhost/SayHello.java
+/home/chris/blog/git/feign-openapi-generator-example/target/generated-sources/openapi/src/gen/java/main/org/openapitools/model/Tag.java
+/home/chris/blog/git/feign-openapi-generator-example/target/generated-sources/openapi/src/gen/java/main/org/openapitools/model/Order.java
+/home/chris/blog/git/feign-openapi-generator-example/target/generated-sources/openapi/src/gen/java/main/org/openapitools/model/ModelApiResponse.java

@@ -1,0 +1,14 @@
+org/openapitools/model/Category.class
+org/openapitools/model/Pet$StatusEnum.class
+org/openapitools/api/StoreApi.class
+com/calling/localhost/SayHello.class
+org/openapitools/model/User.class
+com/calling/localhost/Application.class
+org/openapitools/api/PetApi.class
+org/openapitools/model/Order$StatusEnum.class
+org/openapitools/model/Order.class
+org/openapitools/model/Tag.class
+org/openapitools/model/ModelApiResponse.class
+com/calling/localhost/PetClient.class
+org/openapitools/api/UserApi.class
+org/openapitools/model/Pet.class
